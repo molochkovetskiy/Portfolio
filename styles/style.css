@@ -283,6 +283,13 @@ nav ul li a {
   gap: 1rem;
 }
 
+.portfolio-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
 .portfolio h4 {
   font-weight: 500;
   font-size: 1.05rem;
